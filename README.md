@@ -1,2 +1,2 @@
-# Web-Dev
-This is for web development projects!!!
+# Web-Dev 
+This is for web development projects!!! (MERN)
